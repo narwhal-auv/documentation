@@ -19,7 +19,8 @@ extensions = [
     'sphinx.ext.intersphinx',
     'myst_parser',
     'sphinx_copybutton',
-    'sphinx_book_theme'
+    'sphinx_book_theme',
+    'myst_parser'
 ]
 
 myst_enable_extensions = [
