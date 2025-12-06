@@ -5,4 +5,5 @@
 :caption: Contents
 
 docs/ssh.md
+docs/manual-control.md
 ```
