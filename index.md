@@ -6,4 +6,5 @@
 
 docs/ssh.md
 docs/manual-control.md
+docs/mavros.md
 ```
