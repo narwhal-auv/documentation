@@ -10,6 +10,12 @@ We can manual control the Ardusub with mavlink protocol called [MANUAL_CONTROL](
 ros2 launch narwhal_comms comms.launch.py
 ```
 
+if you want to check each motor before full running, run following command
+
+```bash
+ros2 launch narwhal_comms comms.launch.py init:=true
+```
+
 2. If you want to control with joystick
 
 ```bash
