@@ -1,5 +1,7 @@
 # Everything We do with MAVROS
 
+![Alt text](./assets/mavros.webp "MAVROS Communication")
+
 MAVROS is ros2 package to bridge MAVLINK protocol to ros2 environment. Ardusub have many control mode available like MANUAL, STABILIZE, and ALT_HOLD that we can command from ROS2 environment. 
 
 ## Arming and Disarming
