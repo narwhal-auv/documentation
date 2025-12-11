@@ -44,6 +44,6 @@ For testing purpose:
 
 ```bash
 ros2 topic pub /mavros/manual_control/send mavros_msgs/msg/ManualControl \
-"{x: 500.0, y: 0.0, z: 500.0, r: 0.0, buttons: 0}"
+"{x: 500.0, y: 0.0, z: 500.0, r: 0.0, buttons: 0}" -r 20
 
 ```
