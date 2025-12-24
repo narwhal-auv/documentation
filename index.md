@@ -7,4 +7,5 @@
 docs/ssh.md
 docs/manual-control.md
 docs/mavros.md
+docs/mavlink_system_id.md
 ```
