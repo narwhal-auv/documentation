@@ -4,6 +4,7 @@
 :maxdepth: 2
 :caption: Contents
 
+docs/development-environment.md
 docs/ssh.md
 docs/manual-control.md
 docs/mavros.md
