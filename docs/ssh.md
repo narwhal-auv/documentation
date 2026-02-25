@@ -14,6 +14,5 @@ ssh narwhal@192.168.1.69
 SSID: MF2024
 
 ```bash
-ssh narwhal@192.168.2.254
+ssh narwhal@192.168.2.69
 ```
-
