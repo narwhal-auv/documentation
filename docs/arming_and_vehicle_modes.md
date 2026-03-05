@@ -1,4 +1,4 @@
-# Everything We do with MAVROS
+# Arming and Vehicles Modes with MAVROS
 
 ![Alt text](./assets/mavros.webp "MAVROS Communication")
 
@@ -41,4 +41,6 @@ Available Modes:
 - MANUAL
 - ALT_HOLD
 - STABILIZE
-- DEPTH_HOLD
+
+> NOTE:
+> The yaw behavior of the ALT_HOLD and STABILIZE mode is that it will maintain the heading angle `the mode started in` and during operation the heading angle after `the pilot’s last yaw control input` (after a bit of settling time)

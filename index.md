@@ -7,7 +7,7 @@
 docs/development-environment.md
 docs/ssh.md
 docs/manual-control.md
-docs/mavros.md
+docs/arming_and_vehicle_modes.md
 docs/mavlink_system_id.md
 docs/sitl.md
 ```
