@@ -10,4 +10,5 @@ docs/manual-control.md
 docs/arming_and_vehicle_modes.md
 docs/mavlink_system_id.md
 docs/sitl.md
+docs/narwhal_tool.md
 ```
